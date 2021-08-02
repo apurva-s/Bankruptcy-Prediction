@@ -1,4 +1,4 @@
-# Bankruptcy Prediction
+# Bankruptcy Prediction Using Machine Learning
 Company Bankruptcy Prediction
 
 We have seen in the past that a single organization in loss candrag the entire market down with it. It is important to evaluate thefinancial health of a company before investment. A lot of factorsgo into determining the overall status of an organization. With theadvent of big data and machine learning, it has become increasinglyeasy to predict the likelihood of a company going into bankruptcy.
